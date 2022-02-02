@@ -18,3 +18,5 @@ Device
 [UART2 communication](https://github.com/TallDave67/8_uart_rx)
 
 [Analog to Digital Conversion](https://github.com/TallDave67/9_adc_single_conversion)
+
+[One Pin Captures Output of Another](https://github.com/TallDave67/14_input_capture)
